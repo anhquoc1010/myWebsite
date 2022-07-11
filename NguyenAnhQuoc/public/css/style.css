@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.input-group {
+    padding: 13px 60px 13px 13px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+
+
+/* vị trí
+kích thước
+màu sắc
+kiểu dáng(kiểu chữ,hình(tròn, vuông) )
+ */
+.nav li a{
+    display: inline-block;
+    padding-left: 24px;
+    padding-right: 24px;
+    font-size: 24px;
+    margin: 24px;
+    text-align: center;
+    color: #484848;
+    background-color:#171616;
+}
+.slider {
+    margin-top: 0;
+    padding: 24px;
+}
+.row h2 a{
+    color: #fff;
+    position: relative;
+} 
+.header1 {
+
+    background-color: #fff;
+}
+.navbar-nav a:hover{
+    font-size: 24px;
+    color: #555454;
+    background-color: #555454;
+    display: block;
+}
+a:hover{
+    color: #fff;
+}
+.conten {
+    margin-top: 30px;
+}
+.conten1{
+    margin-top: 30px;
+}
+.conten1 h4 p{
+    margin-top: 30px;
+}
+.caption{
+    position:absolute;
+    margin-top: -200px;
+}
+.hinh {
+    position:relative;
+    margin: 20px 00px;
+}
+.caption1{
+ position: absolute;
+ margin-top: -130px;
+}
+.hinh img{
+    max-width: 105%;
+}
+.noidung1 {
+    margin: 20px 0;
+}
+.row.col-md-4 {
+    color: #b39c9c;
+}
+.fas.fa-gem.me-3 {
+    background-color: #555454;
+}
+.container.text-center.text-md-start.mt-5{
+    padding: auto;
+    color: black;
+    text-align: center;
+    background-color: #484848;
+}
